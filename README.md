@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omarsul
-- 👀 I’m interested in Web development, AI, cybersecurity.
-- 🌱 I’m currently learning Go language as a backend.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science, development, AI, cybersecurity.
+- 🌱 I’m currently learning data science.
 - 📫 How to reach me ... Email : omarsu.dev@gmail.com
 
 <!---
