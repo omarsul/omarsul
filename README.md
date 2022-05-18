@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omarsul
+- 👋 Hi, I’m omar alsultan
 - 👀 I’m interested in data science, development, AI, cybersecurity.
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning software development.
 - 📫 How to reach me ... Email : omarsu.dev@gmail.com
 
 <!---
